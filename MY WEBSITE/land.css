@@ -1,0 +1,520 @@
+.body{
+    background-color: rgb(0, 0, 0);
+}
+#h1{
+    color: rgb(223, 229, 235);
+    font-size:500px;
+    margin-top:500px;
+    margin-bottom: 0px;
+    margin-left: 600px;
+    
+
+}
+#h11{
+    color: rgb(224, 109, 14);
+    font-size:500px;
+    margin-top:-80px;
+    margin-left:600px;
+    margin-bottom:0px;
+    
+}
+#h3{
+    color: antiquewhite;
+    font-size: 200px;
+    margin-top:150px;
+    margin-left:600px;
+}
+
+#fre{
+    color: rgb(204, 94, 4);
+    font-size: 200px;
+}
+
+#h4{
+    color: antiquewhite;
+    font-size:140px;
+    margin-left:600px;
+}
+
+#b1{
+    color:aliceblue;
+    background-color:rgb(224, 109, 14);
+    font-size:100px;
+    margin-left:600px;
+    font-weight:bold;
+    border-radius:1000px;
+    padding-left:150px;
+    padding-right:150px;
+    padding-top:80px;
+    padding-bottom:80px;
+    cursor: pointer;
+    display:inline-block;
+    text-decoration:none;
+    transition:0.5s;
+
+}
+#b1:hover{
+    opacity:5px;
+    background-color: rgba(247, 150, 4, 0.918);
+    padding-left:180px ;
+    padding-right: 190px;
+    margin-left:550px;
+    margin-right: 200px;
+}
+
+#b1:active{
+    background-color: rgba(238, 143, 1, 0.76);
+}
+
+#h12{
+    font-size:300px;
+    color: aliceblue;
+    margin-left:400px;
+    margin-top:800px;
+
+
+}
+
+.about{
+    color:aliceblue;
+    background-color: black;
+    border:25px solid  rgb(224, 109, 14);
+    padding-top:100px;
+    padding-bottom:100px;   
+    padding-right:100px;
+    padding-left: 100px;
+    border-radius:100px;
+    margin-left:2000px;
+    height:2000px;
+    width:3000px;
+    font-size:128px;
+    font-weight:bold;
+    
+
+}
+
+.div2{
+    background-color:aliceblue;
+    border:20px solid aliceblue;
+    height:1250px;
+    width:900px;
+    margin-top:150px;
+    border-radius:80px;
+}
+
+#me{
+    height:1250px;
+    width:900px;
+    margin-top:100x;
+    border-radius:80px;
+
+
+}
+
+#me:hover{
+content: url("img/shy.png");
+cursor: pointer;
+    
+}
+
+#shot{
+    font-size:130px;
+    color:aliceblue;
+    margin-left: 1050px;
+    margin-top: 380px;
+    position:absolute;
+}
+
+#exp{
+    font-size:500px;
+    color: rgb(204, 94, 4);
+    margin-left: 1450px;
+    margin-top: 1000px;
+}
+
+.expi{
+    color:aliceblue;
+    background-color: black;
+    border:25px solid  rgb(224, 109, 14);
+    padding-top:120px;
+    padding-bottom:100px;   
+    padding-right:100px;
+    padding-left: 100px;
+    border-radius:100px;
+    margin-left:350px;
+    height:1700px;
+    width:4500px;
+    font-size:128px;
+    font-weight:bold;
+
+
+}
+
+#freelance{
+    font-size:180px;
+    margin-left:850px;
+    margin-top:90px;
+}
+
+ .gr{
+    margin-left:150px ;
+    line-height:180px;
+    
+} 
+
+#yr1{
+    margin-left:800px;
+}
+
+#s1{
+    font-size:120px;
+    color:aliceblue;
+    padding-top:150px;
+
+}
+
+#fr{
+    margin-left: 1400px;
+}
+
+#insta{
+    height: 215px;
+    width: 260px;
+    margin-top:905px;
+    position:absolute;
+    margin-left:-500px;
+}
+
+#email{
+ height: 200px;
+ width:250px;
+ margin-top:916px;
+ position:absolute;
+ margin-left:-100px; 
+}
+
+#facebook{
+    height:200px;
+    width:250px;
+    margin-top:916px;
+    position:absolute;
+    margin-left:300px;
+    padding-right:0px;
+}
+#solution{
+    margin-left: 1650px;
+}
+
+.expi2{
+
+
+    color:aliceblue;
+    background-color: black;
+    border:25px solid  rgb(224, 109, 14);
+    padding-top:120px;
+    padding-bottom:100px;   
+    padding-right:100px;
+    padding-left: 100px;
+    border-radius:100px;
+    margin-left:350px;
+    height:1700px;
+    width:4500px;
+    font-size:128px;
+    font-weight:bold;
+    margin-top: 500px;
+}
+
+#IT{
+    font-size:150px;
+    margin-top:-19px;
+
+}
+#its{
+    margin-left:1500px;
+}
+#kalayaan{
+    margin-left:800px
+}
+#feb{
+    margin-left:930px
+}
+
+.do{
+    margin-left:280px;
+    margin-top:200px;
+    line-height: 170px;
+}
+
+#my{
+    color: rgb(224, 109, 14);
+    font-size:550px;
+    margin-top: 600px;
+    margin-left:250px
+    
+}
+#java{
+    height:800px;
+    width: 850;
+    margin-left: 300px;
+    position: absolute;
+
+}
+
+#javan{
+    color:aliceblue;
+    font-size:300px;
+    margin-top: 700px;
+    margin-left:1100px;
+    font-weight: 10px;
+}
+
+#css{
+    height:600px;
+    width:650px;
+    position:absolute;
+    margin-left:3000px;
+    margin-top: -710px ;
+}
+
+#csss{
+    color:aliceblue;
+    font-size:300px;
+    margin-top:-550px;
+    margin-left:4000px;
+}
+
+#javascript{
+    height:600px;
+    width:650px;
+    position:absolute;
+    margin-left:320px;
+    margin-top:90px;
+}
+#javascripts{
+    color:aliceblue;
+    font-size:250px;
+    margin-left:1100px;
+    margin-top:500px;
+
+}
+#vb{
+    height:600px;
+    width:650px;
+    position:absolute;
+    margin-left:3000px ;
+    margin-top:-650px;
+
+}
+#vbs{
+    color:aliceblue;
+    font-size: 185px;
+    margin-left: 3800px;
+    margin-top: -450px;
+    
+}
+
+#html{
+    height: 600px;
+    width: 650px;
+    margin-left:350px;
+    margin-top:100px;
+    position:absolute;
+
+}
+#htm{
+    margin-left:1200px;
+    font-size:300px;
+    color:aliceblue;
+    margin-top: 350px;
+}
+
+#react{
+    height:600px;
+    width:650px;
+    position:absolute;
+    margin-left:3000px;
+    margin-top: -650px;
+}
+#reacts{
+    color:aliceblue;
+    margin-top: -450px;
+    margin-left: 3900px;
+    font-size: 270px;
+    
+}
+
+#mysql{
+    height:650px;
+    width:1700px;
+    position:absolute;
+    margin-left:3000px;
+    margin-top: -850px;
+
+}
+
+#sql{
+    height: 600px;
+    width: 650px;
+    margin-left:350px;
+    margin-top:100px;
+    position:absolute;
+
+
+}
+
+#sql9{
+    margin-left:1200px;
+    font-size:300px;
+    color:aliceblue;
+    margin-top: 450px;
+}
+
+#back{
+    font-size:200px;
+    margin-top:1050px;
+    margin-left:2000px;
+    color: rgb(224, 109, 14);
+    text-decoration: none;
+    transition: 0.5s;
+    
+}
+
+#back:hover{
+    color:rgb(243, 168, 69);
+    
+}
+
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100%{
+        transform: translateY(0);
+    }
+    40%{
+        transform: translateY(-80px);
+    }
+    60%{
+        transform: translateY(-45px);
+    }  
+}
+#b1{
+    animation: bounce 1s infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+#h1,#h11,#h12{
+    animation: spin 1s  linear ;
+}
+
+.nav{
+    background-color:  rgb(224, 109, 14) ;
+    border: none;
+    padding: 0px 0px;
+    
+}
+.navi{
+    display: inline-block;
+    font-size: 50px;
+    color:rgb(223, 229, 235);
+
+}
+
+#hello{
+    margin-left:600px;
+    display: inline-block;
+    font-size: 150px;
+    margin-top:90px;
+    margin-bottom: 90px;
+}
+#hello span {
+  display: inline-block;
+  animation: bounce 1s ease-in-out infinite;
+}
+
+/* Bounce motion */
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-50px);
+  }
+}
+
+/* Delay each letter slightly so they bounce one after another */
+#hello span:nth-child(1) { animation-delay: 0s; }
+#hello span:nth-child(2) { animation-delay: 0.05s; }
+#hello span:nth-child(3) { animation-delay: 0.1s; }
+#hello span:nth-child(4) { animation-delay: 0.15s; }
+#hello span:nth-child(5) { animation-delay: 0.2s; }
+#hello span:nth-child(6) { animation-delay: 0.25s; }
+#hello span:nth-child(7) { animation-delay: 0.3s; }
+#hello span:nth-child(8) { animation-delay: 0.35s; }
+#hello span:nth-child(9) { animation-delay: 0.4s; }
+#hello span:nth-child(10) { animation-delay: 0.45s; }
+/* (You can continue adding delays for all letters — or reuse a pattern if needed) */
+
+
+ #link{ 
+    position: relative;
+    margin-left: 10px;
+    position: relative;
+    font-size: 90px;
+    color: white;
+    margin-right: 100px;
+    text-decoration: none;
+    transition: 0.4s;
+} 
+
+#link:hover{
+    color:black;
+    transition: 0.5px;
+    font-size:120px;
+}
+
+
+.navigation{
+    position: relative;
+    float: right;
+    margin-right: 100px;
+    position: relative;
+    font-size:90px;
+    color: white;
+    margin-right: 100px;
+    text-decoration: none;
+    top:150px;
+
+}
+
+
+/* SCALE DOWN EVERYTHING */
+body {
+  transform: scale(0.25); /* try 0.25 or 0.3 depending on how big it is */
+  transform-origin: top left;
+  width: 400%;
+  height: 400%;
+}
+
+/* @keyframes fallIn {
+    0% {
+        transform: translateY(-100px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+#h1,#h11,#h12    {
+    animation: fallIn 0.8s ease-out 1 infinite;
+}  *\
